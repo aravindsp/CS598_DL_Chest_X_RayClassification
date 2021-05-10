@@ -17,6 +17,8 @@ Experiment set up
 -----------------
 We used AWS Deep Learning AMI (Ubuntu 18.04), g4dn.2xlarge for training and prediction.
 
+Execute Notebook
+-----------------
 source activate pytorch_latest_p37
 jupyter nbconvert --to=notebook --inplace --ExecutePreprocessor.enabled=True cs-598-multi-labelchest-x-ray-classification.ipynb > new.log 2>&1 & >> disown
 
