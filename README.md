@@ -1,4 +1,19 @@
-# Multi-Label Chest X-Ray Classification - CS 598 DL Project
+# Multi-Label Chest X-Ray Classification via Deep LearningAravind Sasidharan Pillai
+University of Illinois Urbana-Champaign, Champaign, IL, USA.
+DOI: 10.4236/jilsa.2022.144004 
+
+Article : 
+
+https://www.scirp.org/journal/paperinformation.aspx?paperid=120911
+
+How to cite this paper: 
+
+Pillai, A.S. (2022)
+Multi-Label Chest X-Ray Classification via
+Deep Learning. Journal of Intelligent Learning
+Systems and Applications , 14, 43-56.
+https://doi.org/10.4236/jilsa.2022.144004
+
 
 Authors
 --------------
