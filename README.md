@@ -1,8 +1,9 @@
 # Multi-Label Chest X-Ray Classification via Deep Learning
 
-Aravind Sasidharan Pillai
-University of Illinois Urbana-Champaign, Champaign, IL, USA.
-DOI: 10.4236/jilsa.2022.144004 
+Aravind Sasidharan Pillai  
+University of Illinois Urbana-Champaign, Champaign, IL, USA.  
+
+DOI: 10.4236/jilsa.2022.144004   
 
 Article : 
 
